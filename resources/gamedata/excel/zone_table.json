@@ -611,6 +611,32 @@
       "lockedText": null,
       "canPreview": false
     },
+    "tower_n_13": {
+      "zoneID": "tower_n_13",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "tower_n_14": {
+      "zoneID": "tower_n_14",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "tower_n_01": {
       "zoneID": "tower_n_01",
       "zoneIndex": 0,
@@ -702,6 +728,45 @@
       "lockedText": null,
       "canPreview": false
     },
+    "act33side_zone1": {
+      "zoneID": "act33side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "我赠予未来",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act33side_zone2": {
+      "zoneID": "act33side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "我驻留往昔",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act33side_zone3": {
+      "zoneID": "act33side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "我始终如一",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "act32side_zone1": {
       "zoneID": "act32side_zone1",
       "zoneIndex": 0,
@@ -721,6 +786,32 @@
       "type": "ACTIVITY",
       "zoneNameFirst": null,
       "zoneNameSecond": "高速空降",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act1r6sre_zone1": {
+      "zoneID": "act1r6sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "行动记录",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act1r6sre_zone2": {
+      "zoneID": "act1r6sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "备战训练",
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -3650,6 +3741,18 @@
     }
   },
   "zoneValidInfo": {
+    "act33side_zone1": {
+      "startTs": 1712808000,
+      "endTs": 1714679999
+    },
+    "act33side_zone2": {
+      "startTs": 1713427200,
+      "endTs": 1714679999
+    },
+    "act33side_zone3": {
+      "startTs": 1714032000,
+      "endTs": 1714679999
+    },
     "act32side_zone1": {
       "startTs": 1709784000,
       "endTs": 1710964799
@@ -3657,6 +3760,14 @@
     "act32side_zone2": {
       "startTs": 1710403200,
       "endTs": 1710964799
+    },
+    "act1r6sre_zone1": {
+      "startTs": 1711008000,
+      "endTs": 1711828799
+    },
+    "act1r6sre_zone2": {
+      "startTs": 1711008000,
+      "endTs": 1711828799
     },
     "act4bossrush_zone1": {
       "startTs": 1708588800,
@@ -4139,8 +4250,8 @@
       "endTs": 1619639999
     },
     "act17d7_zone1": {
-      "startTs": 1680336000,
-      "endTs": 1680897599
+      "startTs": 1711958400,
+      "endTs": 1712519999
     },
     "act17d5_zone1": {
       "startTs": 1617091200,
